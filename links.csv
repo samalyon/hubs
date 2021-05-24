@@ -1,0 +1,41 @@
+﻿scr;dst;relationship;cost
+Atlanta;Montgomery;EROAD;235
+Montgomery;Little Rock;EROAD;734
+Little Rock;Dover;EROAD;994
+Dover;Tallahassee;EROAD;368
+Tallahassee;Springfield;EROAD;819
+Springfield;Indianapolis;EROAD;688
+Indianapolis;Topeka;EROAD;1168
+Atlanta;Frankfort;EROAD;497
+Atlanta;Baton Rouge;EROAD;735
+Atlanta;Annapolis;EROAD;915
+Atlanta;Jefferson;EROAD;881
+Atlanta;Jackson;EROAD;564
+Atlanta;Raleigh;EROAD;571
+Atlanta;Columbus;EROAD;702
+Atlanta;Oklahoma;EROAD;1216
+Atlanta;Columbia;EROAD;311
+Atlanta;Nashville;EROAD;346
+Atlanta;Austin;EROAD;1316
+Atlanta;Richmond;EROAD;755
+Atlanta;Charleston;EROAD;568
+Atlanta;Jackson;EROAD;365
+Atlanta;Jackson;EROAD;335
+Atlanta;Jackson;EROAD;1525
+Atlanta;Jackson;EROAD;597
+Atlanta;Indianapolis;EROAD;823
+Atlanta;Topeka;EROAD;1125
+Montgomery;Little Rock;EROAD;615
+Montgomery;Dover;EROAD;123
+Montgomery;Tallahassee;EROAD;288
+Montgomery;Springfield;EROAD;879
+Montgomery;Indianapolis;EROAD;778
+Little Rock;Indianapolis;EROAD;1051
+Dover;Indianapolis;EROAD;298
+Tallahassee;Topeka;EROAD;821
+Montgomery;Topeka;EROAD;1125
+Little Rock;Topeka;EROAD;565
+Dover;Topeka;EROAD;1735
+Tallahassee;Topeka;EROAD;1412
+Springfield;Topeka;EROAD;525
+Frankfort;Topeka;EROAD;943
